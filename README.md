@@ -14,5 +14,5 @@ tracking details for LexDAO Moloch v2x dogfooding 🦴
 
 ## Token
 
-[LEX](https://etherscan.io/address/0xA5C5C8Af327248c4c2dce810a3d3Cffb8C4F66ab#code) ⚖️⚔️🏵️
+[LEX](https://etherscan.io/address/0xA5C5C8Af327248c4c2dce810a3d3Cffb8C4F66ab#code) ⚖️⚔️🏵️ [lex.codeslaw.eth](https://app.ens.domains/name/lex.codeslaw.eth)
 > [LexToken](https://github.com/lexDAO/LexCorpus/tree/master/contracts/token/lextoken) to engage lexMOL & LexDAO legal engineers on governance, rulemaking, coding, legal wrapping, arbitration, & other ('finality-as-a') services. 
