@@ -1,8 +1,6 @@
 # LexDAO v2x
 tracking details for LexDAO Moloch v2x dogfooding 🦴
 
-[dao.codeslaw.eth](https://etherscan.io/address/0xF18B9b6782800646693B239ee748f20beb0345a1)
-
 ## Deployments
 
 [anjMOL](https://etherscan.io/address/0x3509626cba1a3ac5ab001b8d73a018a07bc3e512#code) 🧑‍⚖️🦅👹 [anj.codeslaw.eth](https://app.ens.domains/name/anj.codeslaw.eth)
