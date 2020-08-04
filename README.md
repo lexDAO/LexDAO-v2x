@@ -1,5 +1,5 @@
 # LexDAO v2x
-tracking details for LexDAO Moloch v2x dogfooding 🦴
+tracking details for [LexDAO Moloch v2x](https://github.com/lexDAO/moloch) dogfooding 🦴
 
 ## Deployments
 
